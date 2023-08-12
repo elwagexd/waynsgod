@@ -3,7 +3,7 @@
 
 <a href="https://github.com/waynsgod"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
 ```python
-┌──(resehe@root)-[~/]
+┌──(wayns@root)-[~/]
 └─$ cat wayns.py
 
 class waynsgod:
