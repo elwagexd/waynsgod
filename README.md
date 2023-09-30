@@ -11,7 +11,7 @@ class elwage:
 def  __social__(self):
  self.gtb = "https://github.com/elwagexd"
  self.dsc = "elw" 
- self.tlg = "elwgage"
+ self.tlg = "elwage"
   
  ┌──(elwage@root)-[~/]
  └─$
