@@ -4,7 +4,7 @@
 <a href="https://github.com/waynsgod"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
 ```python
 ┌──(elwage@root)-[~/]
-└─$ cat wayns.py
+└─$ cat elwage.py
 
 class elwage:
 
