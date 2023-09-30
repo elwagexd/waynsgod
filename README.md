@@ -1,7 +1,7 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 
 
-<a href="https://github.com/waynsgod"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
+<a href="https://github.com/elwagexd"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
 ```python
 ┌──(elwage@root)-[~/]
 └─$ cat elwage.py
