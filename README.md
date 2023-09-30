@@ -3,21 +3,21 @@
 
 <a href="https://github.com/waynsgod"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
 ```python
-┌──(wayns@root)-[~/]
+┌──(elwage@root)-[~/]
 └─$ cat wayns.py
 
-class waynsgod:
+class elwage:
 
 def  __social__(self):
- self.gtb = "https://github.com/waynsgod"
- self.dsc = "wayns" 
- self.tlg = "waynsgod"
+ self.gtb = "https://github.com/elwagexd"
+ self.dsc = "elw" 
+ self.tlg = "elwgage"
   
- ┌──(wayns@root)-[~/]
+ ┌──(elwage@root)-[~/]
  └─$
 ```
 
-<p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":wayns" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":elwage" /></p>
 
  
 
